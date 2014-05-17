@@ -1,0 +1,4 @@
+Theme name: It's just a ride
+Description: My first theme for Anchor
+Author name: Andres Olivares
+Author site: http://twitter.com/and27res
